@@ -1,0 +1,255 @@
+ I completed this excerise a while back, and just noticed it was a deliverble, so it wont unfortunatly show the results you are looking for. But the assignment is complete. 
+ 
+ 
+ 
+ 
+ 251  git status
+  252  echo "# project0" >> README.md
+  253  git init
+  254  git add README.md
+  255  git commit -m "first commit"
+  256  git branch -M main
+  257  git remote add origin https://github.com/wesnermichel/project0.git
+  258  git push -u origin main
+  259  ls
+  260  code .
+  261  git status
+  262  npm install jquery
+  263  npm audit fix
+  264  git status
+  265  cd /Desktop
+  266  cd /Desktop/
+  267  pwd
+  268  cd desktop
+  269  ls
+  270  cd sei1031
+  271  ls
+  272  git status
+  273  git push
+  274  git status
+  275  cd desktop
+  276  ls
+  277  sei1031/
+  278  LS
+  279  cd pROJECT
+  280  cd ..
+  281  pwd
+  282  ls
+  283  cd Desktop/
+  284  sei
+  285  cd dest
+  286  git add index.html
+  287  cd desktop
+  288  sei
+  289  ls
+  290  project
+  291  cd sei1031/
+  292  ls
+  293   project0/ls
+  294  git status
+  295  cd /Deskop
+  296  ls
+  297  cd Desktp[
+  298  cd desktop
+  299  cd ls
+  300  ls
+  301  cd sei1031/
+  302  ls
+  303  cd project0/
+  304  git status
+  305   git add .
+  306  git commit m"-Late but woring on css"
+  307  git push
+  308  git add index.html
+  309  git commit -m " Still working"
+  310  git push
+  311  git push index.html
+  312  git status
+  313  git add index.html
+  314  get commit -m " Just in case this didnt go throught last night"
+  315  git commit -m " Just in case this didnt go throught last night"
+  316
+  317  git init
+  318  cd ..
+  319  ls
+  320  cd browser
+  321  git status
+  322  git add browser-game.js
+  323  git commit -m " Browser game"
+  324  git push
+  325  cd
+  326  ls -a
+  327  rm -rf .git
+  328  ls -a
+  329  cd Desktop
+  330  cd sei1031/
+  331  ls
+  332  cd browser
+  333  git add browser-game.js
+  334  ls -a
+  335  git init
+  336  git status
+  337  git add browser-game.js
+  338  git commit -m "project1
+  339  "
+  340  git push
+  341  git push
+  342  git status
+  343  git add README.md
+  344  git commit - Readme file
+  345  git commit -m " Read me file"
+  346  git push
+  347  pwd
+  348  git status
+  349  cd Desktop
+  350  cd sei1031/
+  351  mkdir snake
+  352  cd snake
+  353  touch index.html
+  354  touch main.js
+  355  touch style.cdd
+  356  style.css
+  357  touch style.css
+  358  toiuch planning.md
+  359  touch planning.md
+  360  git commit -m " Lets play a game"
+  361  git push
+  362  cd ..
+  363  ls
+  364  cd trivia
+  365  git init
+  366  mkdir es6
+  367  cd es6/
+  368  cd ~
+  369  l
+  370  ls
+  371  cd websites/
+  372  cd ../es6/
+  373  npm init -y
+  374  npm 1 webpack@4.12.0 webpack-cli@3.0.3 --savedev
+  375  npm i webpack@4.12.0 webpack-cli@3.0.3 --savedev
+  376  npm audit fix --force
+  377  npm audit fix
+  378  npm audit fix
+  379  npm audit fix
+  380  ..
+  381  cd .
+  382  cd ..
+  383  mkdir es6
+  384  cd es6
+  385  npm install --save-dev webpack
+  386  npm i webpack@3.0.3
+  387  npm i webpack-cli@5.0.0
+  388  cat package.json
+  389  npm i webpack@5.0.0 --savedev
+  390  cat package.json
+  391  code .
+  392  ls -a
+  393  webpack@4.12.0 webpack-cli@3.0.3 --save-dev
+  394  npm i webpack@4.12.0 webpack-cli@3.0.3 --save-dev
+  395  npm audit fix
+  396  npm audit fix --force
+  397  cat package.json
+  398  npm i babel-core@6.26.3 babel-loader@7.1.4 babel-preset-env@1.7.0 --save-dev
+  399  npm audit fix
+  400  npm audit fix
+  401  npm audit fix
+  402  npm audit fix -force
+  403  npm run start
+  404  npm run start
+  405  npm audit fix
+  406  npm run start
+  407  pwd
+  408  npm i webpack@4.12.0 webpack-cli@3.0.03 --save-dev
+  409  npm audit
+  410  npm audit fix
+  411  npm init -y
+  412  npm i webpack@4.12.0 webpack-cli@3.0.03 --save-dev
+  413  npm run start
+  414  ls
+  415  npm run build
+  416  npm run start
+  417  npm run start
+  418  npm run start
+  419  npm run start
+  420  npm i webpack-dev-server@3.1.4 --save-dev
+  421  npm run start
+  422  npm run start
+  423  ls
+  424  whoami
+  425  code
+  426  coxe
+  427  code
+  428  code .
+  429  ls
+  430  git init
+  431  git branch
+  432  ls -a
+  433  git status
+  434  git add .
+  435  git status
+  436  git add .
+  437  git status
+  438  git commit -m "my first commit"
+  439  git remote add origin https://github.com/wesnermichel/drawers.git
+  440  git branch -M main
+  441  git push -u origin main
+  442  git add .
+  443  git status
+  444  git push
+  445  git commit -m added "favorite socks"
+  446  git commit -m "added favorite socks"
+  447  vi ~/.bashrc
+  448  /node intro.js
+  449  ls
+  450  node intro.js
+  451  node intro.js
+  452  node intro.js
+  453  node intro.js
+  454  ls
+  455  cd /Arrays
+  456  cd ./Arrays
+  457  ls
+  458  cd arrays
+  459  cd /arrays
+  460  cd ./arrays
+  461  cd . arrays
+  462  ls arrays.js
+  463  cd arrays.js
+  464  cd /arrays.js
+  465  cd ./arrays.js
+  466  cd array.js
+  467  cscd cd /Arrays/arrays.js
+  468  cd /Arrays/arrays.js
+  469  node arrays.js
+  470  node arrays.js
+  471  node arrays.js
+  472  node arrays.js
+  473  node arrays.js
+  474  node arrays.js
+  475  node arrays.js
+  476  node arrays.js
+  477  node arrays.js
+  478  node arrays.js
+  479  node arrays.js
+  480  node arrays.js
+  481  node arrays.js
+  482  node arrays.js
+  483  node arrays.js
+  484  node arrays.js
+  485  node arrays.js
+  486  node arrays.js
+  487  node arrays.js
+  488  ls
+  489  cd Arrays/
+  490  ls
+  491  node arrays.js
+  492  node arrays.js
+  493  node arrays.js
+  494  node arrays.js
+  495  node arrays.js
+  496  node arrays.js
+  497  sudo purge
+  498  history | tail 250
+  499  history | tail -n250
+  500  history | tail -n250
